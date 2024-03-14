@@ -1,9 +1,8 @@
-# lektion-14-mars-react-router
+# Lektion 14 mars: Swing notes + React router
 
 ## Övningar
 
-**
-För att installera React router: `npm install react-router-dom`**
+**För att installera React router: `npm install react-router-dom`**
 
 ### Pages
 
@@ -13,6 +12,7 @@ Gör en enkel layout bestående av header, och tre routes med 3st vy-komponenter
 - About
 - Products
   - Product
+
 Du får själva komma på några produkter men kan också ta samma som i shopping cart - övningen.
 
 ### Create account
@@ -24,3 +24,11 @@ https://www.figma.com/file/sEMBLMjbgtdlAkRTgfbVrF/Frameworks---Create-account?no
 ### Where it's @
 
 https://gist.github.com/zocom-christoffer-wallenberg/0fbba5ddbbcefda43b2d77a596163575
+
+## Artiklar
+
+React router: https://reactrouter.com/en/main
+
+## Videor
+
+React router tutorial: https://www.youtube.com/watch?v=4baq00tHfmA&t=10091s
